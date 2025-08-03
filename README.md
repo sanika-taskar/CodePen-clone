@@ -14,7 +14,9 @@ This project replicates the core functionality of CodePen: write, edit, and prev
 - **Clean UI**: Structured React components and clean styling.
 - **Material UI Icons**: Beautiful icons from the MUI library.
 
----
+
+
+
 
 ## **Technologies Used**
 
@@ -25,12 +27,23 @@ This project replicates the core functionality of CodePen: write, edit, and prev
 - **Styling**: Plain CSS
 - **Icons**: Material-UI Icons
 
----
+
+
+
 
 ## **Snapshots**
 
 ![image alt](https://github.com/sanika-taskar/CodePen-clone/blob/045b0dcd0aa2ef1e2b3e204e0936666df2b8ec24/clone-image1.png)
----
+
+
+
+
+![image alt](https://github.com/sanika-taskar/CodePen-clone/blob/main/clone-image2.png?raw=true)
+
+
+
+
+
 
 ## **Getting Started**
 
