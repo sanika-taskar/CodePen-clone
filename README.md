@@ -50,12 +50,13 @@ _Add screenshots or GIFs showing:_
    ```bash
    git clone https://github.com/sanika-taskar/codepen-clone.git
    cd codepen-clone
-
-2.**Install dependencies**
+   
+2. **Install dependencies**
    ```bash
-  npm install
+   npm install
 
-3.**Start the development server**
+
+3. **Start the development server**
    ```bash
-  npm start
+   npm start
 
