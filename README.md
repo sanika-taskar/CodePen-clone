@@ -7,12 +7,12 @@ This project replicates the core functionality of CodePen: write, edit, and prev
 
 ## **Features**
 
-- 1.**Live Preview**: Write HTML, CSS, and JavaScript with instant rendering.
-- 2.**Mode Shifter**: Toggle between Light and Dark themes for comfortable coding.
-- 3.**Refresh Code**: Clear the editor in one click to start fresh.
-- 4.**Responsive Layout**: Works on desktop, tablet, and mobile devices.
-- 5.**Clean UI**: Structured React components and clean styling.
-- 6.**Material UI Icons**: Beautiful icons from the MUI library.
+- **Live Preview**: Write HTML, CSS, and JavaScript with instant rendering.
+- **Mode Shifter**: Toggle between Light and Dark themes for comfortable coding.
+- **Refresh Code**: Clear the editor in one click to start fresh.
+- **Responsive Layout**: Works on desktop, tablet, and mobile devices.
+- **Clean UI**: Structured React components and clean styling.
+- **Material UI Icons**: Beautiful icons from the MUI library.
 
 ---
 
@@ -52,8 +52,10 @@ _Add screenshots or GIFs showing:_
    cd codepen-clone
 
 2.**Install dependencies**
+   ```bash
   npm install
 
 3.**Start the development server**
+   ```bash
   npm start
 
