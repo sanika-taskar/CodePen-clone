@@ -29,12 +29,7 @@ This project replicates the core functionality of CodePen: write, edit, and prev
 
 ## **Snapshots**
 
-_Add screenshots or GIFs showing:_
-
-- Light Mode vs Dark Mode
-- The editor UI
-- Live Preview Window
-
+_https://github.com/sanika-taskar/CodePen-clone/blob/main/clone-image1.png
 ---
 
 ## **Getting Started**
