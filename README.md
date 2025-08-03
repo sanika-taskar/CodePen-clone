@@ -44,6 +44,15 @@ This project replicates the core functionality of CodePen: write, edit, and prev
 
 
 
+![image alt](https://github.com/sanika-taskar/CodePen-clone/blob/main/clone-image3.png?raw=true)
+
+
+
+
+
+
+
+
 
 ## **Getting Started**
 
